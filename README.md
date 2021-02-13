@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Zakariae El kadiri](https://user-images.githubusercontent.com/624760/97735079-c7f2d780-1ad1-11eb-84b6-52740912a1bc.jpg)
+![Zakariae El kadiri](https://github.com/rawaha-coder/rawaha-coder/blob/main/img/bg.png)
 
 <!--
 **rawaha-coder/rawaha-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
