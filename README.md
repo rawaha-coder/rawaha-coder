@@ -12,7 +12,8 @@ I'm Zakariae from Morocco, and I do Android development, I really enjoy learning
 - ⚡ Fun fact: I love to read and play game
 
 ### Connect with me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rawaha-coder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/RawahaC)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rawaha-coder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/RawahaC)  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt='LinkedIn' height='40'>](https://www.linkedin.com/in/zakariae-el-kadiri-03081235/)
+
 
 ### Languages and Tools:
 
