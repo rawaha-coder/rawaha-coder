@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![Zakariae El kadiri](https://raw.githubusercontent.com/rawaha-coder/rawaha-coder/main/img/rawaha-coder-bg.png)
+![Zakariae El kadiri](https://raw.githubusercontent.com/rawaha-coder/rawaha-coder/main/img/multiplatform.png)
+
+- 🌱 I’m currently learning Kotlin Multiplatform Mobile
 
 <!--
 **rawaha-coder/rawaha-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
