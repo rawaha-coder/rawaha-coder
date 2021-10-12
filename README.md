@@ -3,7 +3,7 @@
 
 ![Design and Development](https://raw.githubusercontent.com/rawaha-coder/rawaha-coder/main/img/multiplatform.png)
 
-I'm Zakariae from Morocco, and I do Android development, I really enjoy learning programing language and new technologies like Kotlin Multiplatform Mobile
+I'm Zakariae from Morocco, and I do Android development, I really enjoy learning programming language and new technologies like Kotlin Multiplatform Mobile
 
 - 🔭 I’m currently working on my first KMM project 
 - 🌱 I’m currently learning Kotlin Multiplatform Mobile
