@@ -5,7 +5,7 @@
 
 I'm Zakariae from Morocco, and I do Android development, I really enjoy learning programing language and new technologies like Kotlin Multiplatform Mobile
 
-- 🔭 I’m currently working on I’m currently working on my first KMM project 
+- 🔭 I’m currently working on my first KMM project 
 - 🌱 I’m currently learning Kotlin Multiplatform Mobile
 - 👯 I’m looking to collaborate with other Kotlin Multiplatform Mobile developer
 - 🥅 2021 Goals: Contribute more to Kotlin Multiplatform projects
