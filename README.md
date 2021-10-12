@@ -1,6 +1,6 @@
 ## Hi there 👋, Zakariae El kadiri
 ### Design and Development
-<br />
+
 ![Design and Development](https://raw.githubusercontent.com/rawaha-coder/rawaha-coder/main/img/multiplatform.png)
 
 I'm Zakariae from Morocco, and I do Android development, I really enjoy learning programing language and new technologies like Kotlin Multiplatform Mobile
