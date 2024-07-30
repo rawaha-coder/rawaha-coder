@@ -39,4 +39,4 @@ I'm Zakariae from Morocco, and I do Android development, I really enjoy learning
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rawaha-coder)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rawaha-coder)](https://github.com/anuraghazra/github-readme-stats)
+
