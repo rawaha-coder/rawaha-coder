@@ -7,7 +7,7 @@ I'm Zakariae from Morocco, and I do Android development, I really enjoy learning
 
 - 🌱 I'm currently self-employed as Android App developer
 - 👯 I’m looking to collaborate with other Android developers
-- 🥅 2023 Goals: Contribute more to Kotlin projects
+- 🥅 2024 Goals: Contribute more to Kotlin projects
 - ⚡ Fun fact: I love to read and play games
 
 ### Connect with me:
